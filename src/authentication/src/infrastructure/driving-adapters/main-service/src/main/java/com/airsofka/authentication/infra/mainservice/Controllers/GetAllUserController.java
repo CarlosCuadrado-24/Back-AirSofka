@@ -1,6 +1,6 @@
 package com.airsofka.authentication.infra.mainservice.controllers;
 
-import com.airsofka.authentication.application.getalluser.GetAllUserResponse;
+
 import com.airsofka.authentication.application.getalluser.GetAllUserUseCase;
 import com.airsofka.authentication.application.shared.users.UserResponse;
 import org.springframework.web.bind.annotation.GetMapping;
